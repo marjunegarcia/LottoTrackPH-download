@@ -6,10 +6,10 @@ LottoTrack PH shows the latest PCSO lotto results (6/42 to 6/58, 4D, 6D, Swertre
 
 ## ⬇️ Download
 
-**Latest version:** https://github.com/marjunegarcia/LottoTrackPH-download/releases/latest
+### 👉 [Download LottoTrackPH.apk](https://github.com/marjunegarcia/LottoTrackPH-download/releases/latest/download/LottoTrackPH.apk)
 
-On that page, scroll to **Assets** and tap **`LottoTrackPH-vX.Y.apk`** (the version number changes with each update).
-No GitHub account needed.
+That link always downloads the newest version. No GitHub account needed.
+(Version number and what's new: [Releases page](https://github.com/marjunegarcia/LottoTrackPH-download/releases/latest).)
 
 **Works on:** Android 8.0 or newer.
 
@@ -20,7 +20,7 @@ No GitHub account needed.
 This app isn't on the Play Store yet, so Android will ask you to confirm a couple of things the first time. That's normal.
 
 1. **Download the APK**
-   Open the download link above on your phone and tap `LottoTrackPH-vX.Y.apk`.
+   Open the **Download LottoTrackPH.apk** link above on your phone.
    If your browser warns *"This type of file can harm your device"*, tap **Download anyway**.
 
 2. **Open the downloaded file**
@@ -51,7 +51,7 @@ Tip: after installing, you can turn **Allow from this source** back off for extr
 
 ## 🔄 Updating to a new version
 
-1. Download the newer APK from the same link.
+1. Download again from the same **Download LottoTrackPH.apk** link.
 2. Open it and tap **Update**.
 
 Your saved numbers and draw history are **kept** — don't uninstall first, or you'll lose them.
