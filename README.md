@@ -1,6 +1,15 @@
 # LottoTrack PH — Download & Install (Android)
 
-LottoTrack PH shows the latest PCSO lotto results (6/42 to 6/58, 4D, 6D, Swertres, 2D), hot & cold numbers, a Lucky Pick generator, and **My Numbers** — save your own combos and see how many you hit after every draw.
+LottoTrack PH shows the latest PCSO lotto results (6/42 to 6/58, 4D, 6D, Swertres, 2D) and helps you track your own numbers:
+
+- 🔔 **Notifications** when new results are out — and when your numbers hit or a ticket wins
+- ⏰ **Next draw countdown** and today's draw line-up
+- 🎟️ **Ticket checker** — save a ticket for a specific draw and see if it won and the prize tier
+- ⭐ **My Numbers** — save your combos and see how many you hit after every draw
+- 🔥 **Hot & cold, last seen, and number search** across past draws
+- ✨ **Lucky Pick** — random, hot-weighted, or **Dream/Omen** (type what you dreamed: ahas, isda, kasal…)
+- 📱 **Home screen widget** with today's Swertres & 2D
+- 📤 **Share results as an image** to Facebook or Messenger
 
 > For monitoring purposes only. Not affiliated with PCSO. Play responsibly.
 
