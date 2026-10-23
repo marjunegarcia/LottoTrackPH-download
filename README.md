@@ -10,6 +10,7 @@ LottoTrack PH shows the latest PCSO lotto results (6/42 to 6/58, 4D, 6D, Swertre
 - ✨ **Lucky Pick** — random, hot-weighted, or **Dream/Omen** (type what you dreamed: ahas, isda, kasal…)
 - 📱 **Home screen widget** with today's Swertres & 2D
 - 📤 **Share results as an image** to Facebook or Messenger
+- 👍 Follow **LottoTrack PH** on Facebook for results after every draw: https://www.facebook.com/122104074483514281
 
 > For monitoring purposes only. Not affiliated with PCSO. Play responsibly.
 
