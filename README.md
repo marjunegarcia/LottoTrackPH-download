@@ -60,6 +60,10 @@ Tip: after installing, you can turn **Allow from this source** back off for extr
 
 ## 🔄 Updating to a new version
 
+**From v1.6.5 on, the app updates itself:** when a new version is out, an **Update available** card appears at the top of Home. Tap **Update now** → it downloads → tap **Update** on the Android screen. (The first time, Android asks you to turn on **Allow from this source** for LottoTrack PH — turn it on, go back, and tap **Install update**.) You can also tap **Check for updates** at the bottom of Home.
+
+Or do it by hand:
+
 1. Download again from the same **Download LottoTrackPH.apk** link.
 2. Open it and tap **Update**.
 
